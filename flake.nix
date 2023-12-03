@@ -11,7 +11,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     dashy-src = {
-      url = "github:lissy93/dashy?ref=2.1.1";
+      url = "github:lissy93/dashy";
       flake = false;
     };
   };
